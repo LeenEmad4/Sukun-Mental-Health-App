@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740794973000",
+    "project_id": "sukun-9e9cb",
+    "storage_bucket": "sukun-9e9cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740794973000:android:4e17537d8ce6d746db917d",
+        "android_client_info": {
+          "package_name": "com.example.soko_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStYz0tivZX7S8l3KDdgWVWOR98wqcVVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

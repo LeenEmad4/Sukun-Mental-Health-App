@@ -1,0 +1,5 @@
+# Replace rtc.yourdomain.com with your actual domain.
+# Caddy handles TLS automatically — no cert setup needed.
+rtc.yourdomain.com {
+    reverse_proxy localhost:7880
+}

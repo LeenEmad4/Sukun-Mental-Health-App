@@ -1,0 +1,478 @@
+{
+  "welcome": "Welcome",
+  "login": "Login",
+  "signup": "Sign Up",
+  "changeLanguage": "Arabic",
+  "tagline": "Find Calm. One Step at a Time.",
+  "description": "A gentle space for your mental wellbeing, built with care and understanding.",
+  "email": "Email",
+  "password": "Password",
+  "emailHint": "your@email.com",
+  "passwordHint": "Enter your password",
+  "forgotPassword": "Forgot password?",
+  "resetPassword": "Reset Password",
+  "resetPasswordSubtitle": "Enter the email linked to your account and we'll send you a reset link.",
+  "sendResetLink": "Send Reset Link",
+  "resetLinkSent": "Password reset link sent to your email.",
+  "rememberPassword": "Remember your password?",
+  "backToLogin": "Back to Login",
+  "applicationSubmitted": "Application Submitted",
+  "applicationPendingMessage": "Your therapist application is under review. We'll notify you as soon as the admin team finishes reviewing your documents and professional details.",
+  "noAccount": "Don't have an account?",
+  "enterEmail": "Please enter your email or username.",
+  "enterPassword": "Please enter your password.",
+  "invalidCredentials": "Invalid email or password.",
+  "applicationRejectedSupport": "Your application was rejected. Please contact support.",
+  "loginFailed": "Login failed: {error}",
+  "@loginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "patient": "Patient",
+  "therapist": "Therapist",
+  "fullName": "Full Name",
+  "fullNameHint": "Your name",
+  "createPassword": "Create a password",
+  "confirmPassword": "Confirm Password",
+  "confirmPasswordHint": "Re-enter your password",
+  "anonymousSignup": "Sign up anonymously (username only)",
+  "createAccount": "Create Account",
+  "privacyText": "By creating an account, you agree to our privacy policy. Your information is safe with us.",
+  "submitProfile": "Submit Profile",
+  "specialties": "Specialties",
+  "qualifications": "Qualifications",
+  "qualificationsHint": "Degree, certification, license",
+  "sessionRate": "Session Rate (JD)",
+  "sessionRateHint": "Enter your hourly rate",
+  "bio": "Bio / About Me",
+  "bioHint": "Tell us about your experience and approach",
+  "uploadDocs": "Upload Documents / Certificates",
+  "uploadFiles": "Upload Files",
+  "haveAccount": "Already have an account?",
+  "enterFullName": "Please enter your full name.",
+  "invalidEmail": "Please enter a valid email address.",
+  "passwordLength": "Password must be at least 6 characters.",
+  "passwordMismatch": "Passwords do not match.",
+  "selectSpecialty": "Please select at least one specialty.",
+  "specialtyAnxiety": "Anxiety",
+  "specialtyDepression": "Depression",
+  "specialtyTrauma": "Trauma",
+  "specialtyStressManagement": "Stress Management",
+  "specialtyFamilyTherapy": "Family Therapy",
+  "specialtyStressBurnout": "Stress & Burnout",
+  "specialtyCBT": "CBT",
+  "specialtyRelationshipCounseling": "Relationship Counseling",
+  "specialtyGriefLoss": "Grief & Loss",
+  "specialtyAddiction": "Addiction",
+  "specialtySelfEsteem": "Self-Esteem",
+  "specialtyLifeTransitions": "Life Transitions",
+  "pricePerSession": "{rate} JD per session",
+  "@pricePerSession": {
+    "placeholders": {
+      "rate": {
+        "type": "num"
+      }
+    }
+  },
+  "enterQualifications": "Please enter your qualifications or license number.",
+  "selected": "Selected",
+  "enterSessionRate": "Please enter your session rate.",
+  "enterBio": "Please add a short bio.",
+  "accountCreated": "Account created successfully. Please log in.",
+  "errorWithMessage": "Error: {error}",
+  "@errorWithMessage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "profileSubmitted": "Therapist profile submitted for review",
+  "filesUploaded": "Documents marked as uploaded for testing.",
+  "welcomeUser": "Welcome",
+  "supportQuestion": "How would you like support today?",
+  "chatbotTitle": "Talk to Chatbot",
+  "chatbotSubtitle": "Have a conversation whenever you need it, day or night",
+  "bookSession": "Book Session",
+  "bookSessionSubtitle": "Schedule time with a professional who understands",
+  "profile": "Profile",
+  "chat": "Chat",
+  "sessions": "Sessions",
+  "home": "Home",
+  "browseTherapists": "Browse Therapists",
+  "searchTherapists": "Search therapists...",
+  "filterTherapists": "Filter Therapists",
+  "specialty": "Specialty",
+  "sortByPrice": "Sort by Price",
+  "lowToHigh": "Low to High",
+  "highToLow": "High to Low",
+  "clearFilters": "Clear Filters",
+  "noTherapistsFound": "No therapists found",
+  "viewProfile": "View Profile",
+  "filterComingSoon": "Filter options will be added later",
+  "anxietyDepression": "Anxiety & Depression",
+  "trauma": "Trauma & PTSD",
+  "stress": "Stress & Burnout",
+  "relationship": "Relationship Therapy",
+  "selfEsteem": "Self-Esteem & Identity",
+  "leilaDescription": "Specializing in cognitive behavioral therapy with 10+ years experience",
+  "leilaAbout": "I believe in creating a safe, non-judgmental space where you can explore your thoughts and feelings. My approach combines evidence-based techniques with compassionate listening to help you navigate life's challenges.",
+  "leilaQualification1": "PhD in Clinical Psychology, University of Jordan",
+  "leilaQualification2": "10+ years of experience in mental health care",
+  "leilaQualification3": "Certified in Cognitive Behavioral Therapy (CBT)",
+  "leilaQualification4": "Specialized training in anxiety and depression treatment",
+  "leilaAvailability": "Available Sunday through Thursday, 9:00 AM - 6:00 PM",
+  "omarDescription": "Evidence-based approach to healing and recovery",
+  "omarAbout": "I work with clients to process trauma at a steady, supportive pace using structured, evidence-based methods that build safety, resilience, and trust.",
+  "omarQualification1": "Doctorate in Counseling Psychology",
+  "omarQualification2": "10 years of trauma-focused clinical practice",
+  "omarQualification3": "Certified in EMDR and trauma-informed care",
+  "omarQualification4": "Specialized in PTSD recovery planning",
+  "omarAvailability": "Available Sunday through Thursday, 10:00 AM - 5:00 PM",
+  "noorDescription": "Mindfulness-based therapy for modern life challenges",
+  "noorAbout": "My sessions focus on helping clients manage stress, prevent burnout, and create healthier routines through mindfulness and practical coping skills.",
+  "noorQualification1": "Masters in Clinical Psychology",
+  "noorQualification2": "8+ years supporting stress and burnout recovery",
+  "noorQualification3": "Certified mindfulness-based therapy practitioner",
+  "noorQualification4": "Experience with workplace wellbeing support",
+  "noorAvailability": "Available Monday through Thursday, 11:00 AM - 7:00 PM",
+  "yasminDescription": "Supporting individuals and couples through life transitions",
+  "yasminAbout": "I help individuals and couples communicate more clearly, navigate transitions, and strengthen emotional understanding in their relationships.",
+  "yasminQualification1": "Masters in Marriage and Family Therapy",
+  "yasminQualification2": "9+ years of relationship counseling experience",
+  "yasminQualification3": "Certified couples communication facilitator",
+  "yasminQualification4": "Specialized in transition and adjustment support",
+  "yasminAvailability": "Available Sunday through Wednesday, 9:30 AM - 4:30 PM",
+  "amiraDescription": "Compassionate guidance for personal growth and self-discovery",
+  "amiraAbout": "I provide a reflective, encouraging space for clients exploring self-worth, identity, confidence, and long-term personal growth.",
+  "amiraQualification1": "PhD in Counseling and Human Development",
+  "amiraQualification2": "11 years of experience in personal growth therapy",
+  "amiraQualification3": "Certified in strength-based therapeutic approaches",
+  "amiraQualification4": "Specialized in identity and self-esteem support",
+  "amiraAvailability": "Available Sunday through Thursday, 12:00 PM - 8:00 PM",
+  "therapistDetails": "Therapist Details",
+  "about": "About",
+  "availability": "Availability",
+  "contactForAvailability": "Contact therapist for availability",
+  "sessionPrice": "Session Price",
+  "sessionPriceValue": "10 JD per session",
+  "selectTime": "Select Time",
+  "selectedTime": "Selected Time",
+  "confirmBooking": "Confirm Booking",
+  "selectTimeSlot": "Please select a time slot",
+  "noAvailableSlots": "No available slots for this therapist yet.",
+  "sessionDuration": "1 hour",
+  "online": "Online",
+  "today": "Today",
+  "tomorrow": "Tomorrow",
+  "at": "at",
+  "chatTitle": "Sukun Chat",
+  "newChat": "New Chat",
+  "noConversationsYet": "No conversations yet",
+  "tapToStartChat": "Tap the button below to start a new chat",
+  "chatSession": "Chat session",
+  "yesterday": "Yesterday",
+  "recent": "Recent",
+  "daysAgo": "{count, plural, other{{count} days ago}}",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "chatStart": "You can start by telling me how you feel.",
+  "chatSafe": "This is a safe space. Take your time.",
+  "typeMessage": "Type your message...",
+  "crisisHotlines": "Crisis Hotlines",
+  "crisisTapToView": "Tap to view emergency contacts",
+  "crisisYouAreNotAlone": "You are not alone",
+  "crisisContactProfessionals": "Please contact professionals immediately",
+  "crisisJordanEmergency": "JCPA Hotline",
+  "crisisNationalMentalHealth": "National Center for Mental Health",
+  "crisisFamilyProtection": "Family Protection Department",
+  "crisisChatDisabled": "This chat is temporarily disabled to keep you safe. Please reach out to a professional.",
+  "chatConnectionError": "Sorry, connection error. Please try again.",
+  "botReply": "I'm here with you. We can take this one step at a time.",
+  "myAppointments": "My Appointments",
+  "upcomingSessions": "Upcoming Sessions",
+  "completedSessions": "Completed Sessions",
+  "noUpcoming": "You have no upcoming sessions right now.",
+  "noCompleted": "Completed sessions will appear here.",
+  "upcoming": "Upcoming",
+  "completed": "Completed",
+  "viewDetails": "View Details",
+  "cancel": "Cancel",
+  "appointmentCanceled": "appointment canceled",
+  "newlyBooked": "Newly booked session",
+  "traumaTherapist": "Trauma Therapist",
+  "familyCounseling": "Family Counseling",
+  "stressManagement": "Stress Management",
+  "dateExample1": "Tue, Apr 8",
+  "dateExample2": "Fri, Apr 11",
+  "dateExample3": "Mon, Mar 24",
+  "dateExample4": "Thu, Mar 13",
+  "price25": "25 JD",
+  "price30": "30 JD",
+  "price20": "20 JD",
+  "price22": "22 JD",
+  "sessionDetails": "Session Details",
+  "dateAndTime": "Date & Time",
+  "duration": "Duration",
+  "durationMinutes": "{minutes} minutes",
+  "@durationMinutes": {
+    "placeholders": { "minutes": { "type": "int" } }
+  },
+  "sessionNotes": "Session Notes",
+  "dateTime": "Date & Time",
+  "anxietyStressManagement": "Anxiety & Stress Management",
+  "defaultDuration": "50 minutes",
+  "defaultSessionNotes": "We discussed coping mechanisms for managing work-related stress and explored breathing techniques. Made progress on identifying triggers and developed a personalized relaxation routine. Practiced mindfulness exercises and set goals for the week ahead. Continue with daily meditation practice and journaling.",
+  "bookingConfirmed": "Booking Confirmed",
+  "sessionSuccessfullyBooked": "Your session has been\nsuccessfully booked",
+  "goToMyAppointments": "Go to My Appointments",
+  "confirmationEmailNote": "You will also receive a confirmation email shortly",
+  "totalPaid": "Total Paid",
+  "checkout": "Checkout",
+  "paymentMethod": "Payment Method",
+  "creditCard": "Credit Card",
+  "paymentFailedTestCard": "Payment failed. Use test card: 4242 4242 4242 4242",
+  "mobileWallet": "Mobile Wallet",
+  "confirmPayment": "Confirm Payment",
+  "paymentsSecureEncrypted": "All payments are secure and encrypted.",
+  "date": "Date",
+  "time": "Time",
+  "sessionType": "Session Type",
+  "total": "Total",
+  "cardNumber": "Card Number",
+  "expiryDate": "Expiry Date",
+  "cvv": "CVV",
+  "invalidCardNumber": "Please enter a valid 16-digit card number.",
+  "invalidExpiryDate": "Please enter a valid expiry date.",
+  "invalidCvv": "Please enter a valid 3-digit CVV.",
+  "profileInformation": "Profile Information",
+  "publicPrivacyMode": "Public Privacy Mode",
+  "privacyModeDescription": "When enabled, your real identity is hidden from public display. Only your public username will be shown to therapists and others.",
+  "publicUsername": "Public Username",
+  "realName": "Real Name",
+  "emailAddress": "Email Address",
+  "myAppointmentsSubtitle": "View your upcoming and completed sessions",
+  "saveChanges": "Save Changes",
+  "logOut": "Log Out",
+  "changesSaved": "Changes saved successfully!",
+  "language": "Language",
+  "languageSubtitle": "Choose your preferred language",
+  "english": "English",
+  "arabic": "العربية",
+  "dashboard": "Dashboard",
+  "welcomeBackDr": "Welcome back, Dr.",
+  "pendingRequests": "Pending Requests",
+  "noPendingRequests": "No pending requests",
+  "noNotesProvided": "No notes provided",
+  "sessionLabel": "Session",
+  "anonymousUser": "Sukun User",
+  "appointmentConfirmedFor": "Appointment confirmed for {name}",
+  "@appointmentConfirmedFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "appointmentRejectedRefund": "Appointment rejected. Refund issued to {name}.",
+  "@appointmentRejectedRefund": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "tapToJoinOrManage": "Tap a session to join or manage requests",
+  "cancelSessionTitle": "Cancel session?",
+  "cancelSessionBody": "This will cancel the confirmed session, refund the patient, and free the time slot. This cannot be undone.",
+  "keepSession": "Keep session",
+  "cancelSessionConfirm": "Cancel session",
+  "sessionCancelledRefunded": "Session cancelled and patient refunded.",
+  "accept": "Accept",
+  "reject": "Reject",
+  "joinSession": "Join Session",
+  "meetingUrlNotAvailable": "Meeting URL not available",
+  "appointmentCancelledRefund": "Appointment cancelled. Full refund processed!",
+  "appointmentCancelledNoRefund": "Appointment cancelled. No refund — less than 24 hours notice.",
+  "joiningSession": "Joining {name}'s session",
+  "@joiningSession": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "dashboardTab": "Dashboard",
+  "availabilityTab": "Availability",
+  "availabilityOverview": "Set your hours and open slots here.",
+  "requestsTab": "Requests",
+  "requestsOverview": "Review incoming session requests here.",
+  "profileOverview": "Manage your therapist profile here.",
+  "overviewAvailable": "Overview is available here.",
+  "navDashboard": "Dashboard",
+  "navAvailability": "Availability",
+  "navRequests": "Requests",
+  "navProfile": "Profile",
+  "profileAndSettings": "Profile & Settings",
+  "manageProfessionalInfo": "Manage your professional information",
+  "profileVisibleToPatients": "Your profile information is visible to patients when they book sessions",
+  "professionalInformation": "Professional Information",
+  "phoneNumber": "Phone Number",
+  "licenseQualifications": "License / Qualifications",
+  "yearsOfExperience": "Years of Experience",
+  "bioAboutMe": "Bio / About Me",
+  "uploadUpdateDocuments": "Upload / Update Documents",
+  "deleteAccount": "Delete Account",
+  "documentUploadLater": "Document upload will be connected to storage later",
+  "yearsExperience": "{years} years experience",
+  "@yearsExperience": {
+    "placeholders": {
+      "years": {
+        "type": "String"
+      }
+    }
+  },
+  "requestsAwaitingResponse": "{count} requests awaiting your response",
+  "@requestsAwaitingResponse": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tapAcceptOrReject": "Tap Accept or Reject to manage patient requests",
+  "note": "NOTE",
+  "manageAvailability": "Manage Availability",
+  "addTimeSlot": "Add Time Slot",
+  "slotConflict": "You already have a slot at this time!",
+  "slotAdded": "Slot added successfully!",
+  "availableSlots": "{count} available slots",
+  "@availableSlots": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noSlotsAdded": "No slots added for this day yet.",
+  "tapSlotToEdit": "Tap a slot to edit or block time. Available slots can be booked by patients.",
+  "available": "Available",
+  "blocked": "Blocked",
+  "block": "Block",
+  "unblock": "Unblock",
+  "monday": "Mon",
+  "tuesday": "Tue",
+  "wednesday": "Wed",
+  "thursday": "Thu",
+  "friday": "Fri",
+  "saturday": "Sat",
+  "sunday": "Sun",
+  "therapistApplication": "Therapist Application",
+  "allActionsAffectAccounts": "All actions here affect therapist accounts and notifications will be sent automatically",
+  "licenseNumber": "License Number",
+  "documentsSubmitted": "{count} Documents Submitted",
+  "@documentsSubmitted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "submittedOn": "Submitted on {date}",
+  "@submittedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "bioAbout": "Bio / About Me",
+  "approveApplication": "Approve Application",
+  "rejectApplication": "Reject Application",
+  "requestMoreInformation": "Request More Information",
+  "adminDashboard": "Admin Dashboard",
+  "pendingApplications": "Pending Applications",
+  "approvedTherapists": "Approved Therapists",
+  "recentActivity": "Recent Activity",
+  "documentsSubmittedCount": "{count} documents submitted",
+  "@documentsSubmittedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "approvedAsTherapist": "{name} was approved as a therapist",
+  "@approvedAsTherapist": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "applicationRejected": "{name} application was rejected",
+  "@applicationRejected": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedMoreInfo": "Requested more information from {name}",
+  "@requestedMoreInfo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "newApplicationFrom": "New therapist application from {name}",
+  "@newApplicationFrom": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "therapistApplicationTitle": "Therapist Application",
+  "therapistApplicationSubtitle": "Complete your application. Our team will review and get back to you.",
+  "personalInformation": "Personal Information",
+  "documents": "Documents",
+  "documentsSubtitle": "Upload your license, degree, or any supporting documents.",
+  "uploadDocuments": "Upload Documents",
+  "submitApplication": "Submit Application",
+  "phoneNumberHint": "+962 7X XXX XXXX",
+  "licenseNumberHint": "e.g. JO-PSY-12345",
+  "qualificationsHint2": "e.g. PhD in Clinical Psychology",
+  "pleaseUploadDocument": "Please upload at least one document",
+  "pleaseEnterPhone": "Please enter your phone number",
+  "pleaseEnterLicense": "Please enter your license number",
+  "notifications": "Notifications",
+  "noNotifications": "You have no notifications yet.",
+  "notifTitleBookingRequest": "New session request",
+  "notifBodyBookingRequest": "You have a new session request awaiting your response.",
+  "notifTitleBookingConfirmed": "Booking confirmed",
+  "notifBodyBookingConfirmed": "Your session has been confirmed.",
+  "notifTitleBookingCancelled": "Session cancelled",
+  "notifBodyBookingCancelled": "Your session was cancelled and a refund has been issued.",
+  "notifTitleApplicationApproved": "Application approved",
+  "notifBodyApplicationApproved": "Your application has been approved. Welcome to Sukun.",
+  "notifTitleApplicationRejected": "Application not approved",
+  "notifBodyApplicationRejected": "Your application was not approved. Please contact support for details.",
+  "notifTitleSessionReminder": "Session reminder",
+  "notifBodySessionReminder1hr": "Your session starts in about an hour.",
+  "notifBodySessionReminder24hr": "You have a session tomorrow.",
+  "messages": "Messages",
+  "noMessages": "No messages yet",
+  "noMessagesSubtitle": "Your conversations with therapists will appear here",
+  "messageTherapist": "Message Therapist",
+  "typeAMessage": "Type a message..."
+}
